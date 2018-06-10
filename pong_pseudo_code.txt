@@ -1,0 +1,7 @@
+set VA to 2
+set VB to 12
+set VC to 63
+set VD to 12
+set I to 0x2EA
+draw a sprite at (VA, VB) w=8 h=6
+
